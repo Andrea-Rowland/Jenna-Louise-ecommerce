@@ -4,6 +4,7 @@
 This is an ecommernce website for the artist Jenna Louise. Users are able to view her art, search by type, and make purchases. The artist is able to add new inventory as she creates new art.
 
 ## Screenshot
+![Art-of Jenna-Louise-Screenshot](./client/public/images/Website%20Screenshot.JPG)
 
 ## Table of Contents
 * Technologies Used
