@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/Jenna-Louise-ecommerce.Art', {
+  process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/jenna-louise-art-ecommerce', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
